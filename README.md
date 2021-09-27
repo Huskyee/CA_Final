@@ -29,4 +29,12 @@
 
 6. 時間軸控制：我們把編輯好的角色動畫、鏡頭動畫、場景物件動畫以及音效等等匯入到 Unity 的 Timeline 裡面，並調整適當的時間點。  
  
-7. 影片後製：我們使用 Premiere Pro 進行影片的後製，包含把各場景的動畫串再一起、加上背景音樂並調整聲音的平衡、上字幕等等。  
+7. 影片後製：我們使用 Premiere Pro 進行影片的後製，包含把各場景的動畫串再一起、加上背景音樂並調整聲音的平衡、上字幕等等。
+
+## - 6. Image Show
+![image](https://drive.google.com/uc?export=view&id=1WNm6oSDHPO6IDxHCBsoPDi5MeYbpsiGl)
+![image](https://drive.google.com/uc?export=view&id=1te6eqLsOFNpvHc_tgOVYFY2QKvPZId73)
+![image](https://drive.google.com/uc?export=view&id=1AUTNUlAAEkSOLZgRDsr2V6HOy4zgdkWm)
+![image](https://drive.google.com/uc?export=view&id=1rR3tmop2f6pNkT4DXUz3VLB2DAuXpBxw)
+## - 7. Demo Video
+[消失的學分](https://www.youtube.com/watch?v=7PEAWuVoJho&list=UUA709PCPAKldQfmaCe1aj3w&index=4 "link")

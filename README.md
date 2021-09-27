@@ -38,3 +38,9 @@
 ![image](https://drive.google.com/uc?export=view&id=1rR3tmop2f6pNkT4DXUz3VLB2DAuXpBxw)
 ## - 7. Demo Video
 [消失的學分](https://www.youtube.com/watch?v=7PEAWuVoJho&list=UUA709PCPAKldQfmaCe1aj3w&index=4 "link")
+
+## - 8. ork division
+陳君杰：人物動作、鏡頭位置、配音  
+邱兆國：素材蒐集、場景建構、配音  
+謝至恆：人物動作、影片後製、配音  
+

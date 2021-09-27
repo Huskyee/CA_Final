@@ -37,7 +37,7 @@
 ![image](https://drive.google.com/uc?export=view&id=1AUTNUlAAEkSOLZgRDsr2V6HOy4zgdkWm)
 ![image](https://drive.google.com/uc?export=view&id=1rR3tmop2f6pNkT4DXUz3VLB2DAuXpBxw)
 ## - 7. Demo Video
-[![Watch the video]](https://www.youtube.com/watch?v=7PEAWuVoJho&list=UUA709PCPAKldQfmaCe1aj3w&index=4)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=7PEAWuVoJho&list=UUA709PCPAKldQfmaCe1aj3w&index=4)
 
 ## - 8. ork division
 陳君杰：人物動作、鏡頭位置、配音  

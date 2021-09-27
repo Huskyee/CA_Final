@@ -39,7 +39,7 @@
 ## - 7. Demo Video
 [![Watch the video](https://drive.google.com/uc?export=view&id=1KOgZhUwef6RcXuOnoVi3ctT-nxMpWQKg)](https://www.youtube.com/watch?v=7PEAWuVoJho&list=UUA709PCPAKldQfmaCe1aj3w&index=4)
 
-## - 8. ork division
+## - 8. Work division
 陳君杰：人物動作、鏡頭位置、配音  
 邱兆國：素材蒐集、場景建構、配音  
 謝至恆：人物動作、影片後製、配音  
